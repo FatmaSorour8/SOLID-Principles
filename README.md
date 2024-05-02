@@ -47,6 +47,3 @@ Feel free to explore each example, understand the principles they illustrate, an
 
 Contributions are welcome! If you have additional examples, improvements, or corrections for any of the SOLID principles demonstrated in this repository, feel free to fork the repository, make your changes, and submit a pull request. 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
